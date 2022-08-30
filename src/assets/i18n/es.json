@@ -1,0 +1,11 @@
+{
+    "HELLO":"hola mundo",
+    "oneLink":"Inicio",
+    "twoLink":"Explorar",
+    "threeLink":"contactar",
+    "imageWelcome":"imageDefaut.jpg",
+    "title":"BIENVENIDO A TRIPNNY",
+    "message":"Tripnny es la plataforma de turismo que se encarga de sacarte una sonrisa en cada uno de sus viajes.",
+    "button":"viajar"
+
+}
